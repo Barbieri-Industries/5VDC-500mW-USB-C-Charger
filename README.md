@@ -10,6 +10,5 @@ Output:
 ---
 Softwares:
 - **KiCAD 10.0.0**
-- **FreeCAD 1.1.3**
 ---
 © 2026 Barbieri Industries. All rights reserved.
